@@ -25,16 +25,20 @@
 <p align="center">
     <a href="https://t.me/zacfanR">
         <img src="https://img.shields.io/badge/Telegram-273343?style=for-the-badge&logo=Telegram&logoColor=30ACEB">
-    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <span style="margin: 0 20px;"></span>
     <a href="https://www.tiktok.com/@rezzes7?_t=ZS-8uvH9LaIRz5&_r=1">
         <img src="https://img.shields.io/badge/TikTok-273343?style=for-the-badge&logo=TikTok&logoColor=090909">
-    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <span style="margin: 0 20px;"></span>
     <a href="https://www.instagram.com/xwyq11?igsh=OGQ5ZDc2ODk2ZA==">
         <img src="https://img.shields.io/badge/Instagram-273343?style=for-the-badge&logo=Instagram&logoColor=D02D65">
-    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <span style="margin: 0 20px;"></span>
     <a href="mailto:abdugood03@gmail.com">
         <img src="https://img.shields.io/badge/gmail-273343?style=for-the-badge&logo=gmail&logoColor=E45247">
-    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <span style="margin: 0 20px;"></span>
     <a href="https://api.whatsapp.com/send/?phone=%2B996707547539&text&type=phone_number&app_absent=0">
         <img src="https://img.shields.io/badge/Whatsapp-273343?style=for-the-badge&logo=Whatsapp&logoColor=25D366">
     </a>
