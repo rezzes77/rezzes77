@@ -16,7 +16,9 @@
 ![nginx](https://img.shields.io/badge/Nginx-273343?style=for-the-badge&logo=nginx&logoColor=207832)
 ![swagger](https://img.shields.io/badge/swagger-273343?style=for-the-badge&logo=swagger&logoColor=729D08)
 
-
-
-
-Follow me
+### Contact Me
+[![Telegram](https://img.shields.io/badge/Telegram-273343?style=for-the-badge&logo=Telegram&logoColor=30ACEB)](https://t.me/zacfanR)
+[![TikTok](https://img.shields.io/badge/TikTok-273343?style=for-the-badge&logo=TikTok&logoColor=090909)](https://www.tiktok.com/@rezzes7?_t=ZS-8uvH9LaIRz5&_r=1)
+[![Instagram](https://img.shields.io/badge/Instagram-273343?style=for-the-badge&logo=Instagram&logoColor=D02D65)](https://www.instagram.com/xwyq11?igsh=OGQ5ZDc2ODk2ZA==)
+[![Gmail](https://img.shields.io/badge/gmail-273343?style=for-the-badge&logo=gmail&logoColor=E45247)](mailto:abdugood03@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-273343?style=for-the-badge&logo=Whatsapp&logoColor=25D366)](https://api.whatsapp.com/send/?phone=%2B996707547539&text&type=phone_number&app_absent=0)
