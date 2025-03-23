@@ -50,6 +50,6 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=rezzes77&&show_icons=true&theme=prussian" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezzes77&layout=compact&langs_count=8&card_width=320&theme=prussian" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezzes77&layout=compact&langs_count=8&card_width=250&theme=prussian" />
   </a>
 </p>
