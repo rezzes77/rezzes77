@@ -3,18 +3,26 @@
 ## I'm a backend developer, and I'm 14 y.o and this is my github page!👨🏻‍💻
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/Python-273343?style=for-the-badge&logo=python&logoColor=3D75A4)
-![django](https://img.shields.io/badge/Rest_Framework-273343?style=for-the-badge&logo=django&logoColor=174435)
-![SQLite](https://img.shields.io/badge/SQLite-273343?style=for-the-badge&logo=SQLite&logoColor=2089CF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-273343?style=for-the-badge&logo=PostgreSQL&logoColor=386C94)
-![Git](https://img.shields.io/badge/Git-273343?style=for-the-badge&logo=Git&logoColor=F05539)
-![GitHub](https://img.shields.io/badge/GitHub-273343?style=for-the-badge&logo=gitHub&logoColor=090909)
-![HTML](https://img.shields.io/badge/HTML-273343?style=for-the-badge&logo=html5&logoColor=E5532D)
-![Css](https://img.shields.io/badge/CSS-273343?style=for-the-badge&logo=CSS&logoColor=2061AA)
-![docker](https://img.shields.io/badge/Docker-273343?style=for-the-badge&logo=docker&logoColor=1072D8)
-![postman](https://img.shields.io/badge/Postman-273343?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![nginx](https://img.shields.io/badge/Nginx-273343?style=for-the-badge&logo=nginx&logoColor=207832)
-![swagger](https://img.shields.io/badge/swagger-273343?style=for-the-badge&logo=swagger&logoColor=729D08)
+<div style="text-align: center;">
+    <!-- Первый ряд -->
+    <img src="https://img.shields.io/badge/Python-273343?style=for-the-badge&logo=python&logoColor=3D75A4">
+    <img src="https://img.shields.io/badge/Rest_Framework-273343?style=for-the-badge&logo=django&logoColor=174435">
+    <img src="https://img.shields.io/badge/SQLite-273343?style=for-the-badge&logo=SQLite&logoColor=2089CF">
+    <img src="https://img.shields.io/badge/PostgreSQL-273343?style=for-the-badge&logo=PostgreSQL&logoColor=386C94">
+    <img src="https://img.shields.io/badge/Git-273343?style=for-the-badge&logo=Git&logoColor=F05539">
+    <img src="https://img.shields.io/badge/GitHub-273343?style=for-the-badge&logo=gitHub&logoColor=090909">
+    <img src="https://img.shields.io/badge/HTML-273343?style=for-the-badge&logo=html5&logoColor=E5532D">
+    <img src="https://img.shields.io/badge/CSS-273343?style=for-the-badge&logo=CSS&logoColor=2061AA">
+</div>
+
+<br>
+
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Docker-273343?style=for-the-badge&logo=docker&logoColor=1072D8">
+    <img src="https://img.shields.io/badge/Postman-273343?style=for-the-badge&logo=postman&logoColor=FF6C37">
+    <img src="https://img.shields.io/badge/Nginx-273343?style=for-the-badge&logo=nginx&logoColor=207832">
+    <img src="https://img.shields.io/badge/Swagger-273343?style=for-the-badge&logo=swagger&logoColor=729D08">
+</div>
 
 ### Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-273343?style=for-the-badge&logo=Telegram&logoColor=30ACEB)](https://t.me/zacfanR)
