@@ -19,6 +19,8 @@
     <img src="https://img.shields.io/badge/Postman-273343?style=for-the-badge&logo=postman&logoColor=FF6C37">
     <img src="https://img.shields.io/badge/Nginx-273343?style=for-the-badge&logo=nginx&logoColor=207832">
     <img src="https://img.shields.io/badge/Swagger-273343?style=for-the-badge&logo=swagger&logoColor=729D08">
+    <img src="https://img.shields.io/badge/Redis-273343?style=for-the-badge&logo=redis&logoColor=D12B1F">
+    <img src="https://img.shields.io/badge/Celery-273343?style=for-the-badge&logo=celery&logoColor=6D9534">
 </p>
 
 ### Contact Me
@@ -42,6 +44,7 @@
     <a href="https://api.whatsapp.com/send/?phone=%2B996707547539&text&type=phone_number&app_absent=0">
         <img src="https://img.shields.io/badge/Whatsapp-273343?style=for-the-badge&logo=Whatsapp&logoColor=25D366">
     </a>
+    
 </p>
 
 ### My Stats
